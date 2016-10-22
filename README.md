@@ -3,7 +3,7 @@
 | 7h - 9h | Học trên trường | Học trên trường | Học trên trường | Học trên trường | Học trên trường | | Học Java|
 | 9h30 - 11h30 | Học trên trường | HỌc trên trường | Học trên trường | Học trên trường | Học trên trường | | |
 | | | | | | | | |
-| 12h30 - 14h | Tự học ở nhà | Tự học ở nhà | Lên công ty| Lên công ty | Lên công ty | | |
-| 14h30 - 16h30 | Tự học ở nhà |Tự học ở nhà | Lên công ty | Lên công ty| Lên công ty | | |
+| 12h30 - 14h | Tự học ở nhà | Tự học ở nhà | Lên công ty| Lên công ty | Lên công ty | Học trên trường | |
+| 14h30 - 16h30 | Tự học ở nhà |Tự học ở nhà | Lên công ty | Lên công ty| Lên công ty | Học trên trường | |
 | | | | | | | | |
-| 20h30 - 22h30 | | | Viết tài liệu | Viết tài liệu | Viết tài liệu | | |
+| 20h30 - 22h30 | Viết tài liệu | Viết tài liệu | Viết tài liệu | Viết tài liệu | Viết tài liệu | | |
