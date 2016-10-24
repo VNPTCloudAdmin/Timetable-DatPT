@@ -7,3 +7,5 @@
 | 14h30 - 16h30 | Tự học ở nhà |Tự học ở nhà | Lên công ty | Lên công ty| Lên công ty | Học trên trường | |
 | | | | | | | | |
 | 20h30 - 22h30 | Viết tài liệu | Viết tài liệu | Học trên trường | Viết tài liệu | Học trên trường | | |
+
+*Từ 24/10/2016 đến 31/10/2016*
