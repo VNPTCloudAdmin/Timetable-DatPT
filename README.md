@@ -3,9 +3,9 @@
 | 7h - 9h | Học trên trường | Học trên trường | Học trên trường | Học trên trường | Học Java | | Học Java|
 | 9h30 - 11h30 | Học trên trường | HỌc trên trường | Học trên trường | Học trên trường | Học Java | | Học Java |
 | | | | | | | | |
-| 12h30 - 14h | Javacore | Python | Lên công ty| Lên công ty | Lên công ty | Học trên trường | |
+| 12h30 - 14h | Javacore | Python | Lên công ty| Lên công ty | Lên công ty | Học trên trường | Trao đổi đề tài nghiên cứu công nghệ |
 | 14h30 - 16h30 | Java core |Admin Remote Access StrongSwan VPN | Lên công ty | Lên công ty| Lên công ty | Học trên trường |Trao đổi đề tài nghiên cứu công nghệ |
 | | | | | | | | |
-| 18h00 - 21h30 | Viết tài liệu | Viết tài liệu | Học trên trường | Viết tài liệu | Học trên trường | | Trao đổi đề tài nghiên cứu công nghệ |
+| 18h00 - 21h30 | Viết tài liệu | Viết tài liệu | Học trên trường | Viết tài liệu | Học trên trường | | |
 
 *Từ 24/10/2016 đến 31/10/2016*
